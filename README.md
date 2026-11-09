@@ -547,7 +547,7 @@ models/*.pkl
 
 **Mateos Sharka**  
 Artificial Intelligence Student  
-GitHub: `@mateossharka9`  
+GitHub: `Mateos06`  
 Project: EnergyShield AI — Non-Technical Loss Detection Platform
 
 ---
